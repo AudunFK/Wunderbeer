@@ -1,0 +1,54 @@
+{
+  "Beer": [
+   
+    {
+      "name": "Cafe Skansen",
+      "price": "94",
+      "close_indoor": "03:00",
+      "close_outdoor": "03:00",
+      "adress": "Radhusgata 32"
+    },
+    {
+      "name": "BAR Vulkan",
+      "price": "85",
+      "close_indoor": "03:00",
+      "close_outdoor": "23:30",
+      "adress": "Maridalsveien 17"
+    },
+    {
+      "name": "Brunello Stenersgata",
+      "price": "74",
+      "close_indoor": "03:00",
+      "close_outdoor": "23:30",
+      "adress": "Stenersgata 10, Oslo"
+    },
+    {
+      "name": "Andys Pub",
+      "price": "68",
+      "close_indoor": "03:00",
+      "close_outdoor": "03:00",
+      "adress": "Stortingsgata 8"
+    },
+    {
+      "name": "To Kokker",
+      "price": "56",
+      "close_indoor": "03:00",
+      "close_outdoor": "23:30",
+      "adress": "Brugata 3, Oslo"
+    },
+    {
+      "name": "Rett Inn Bar",
+      "price": "39",
+      "close_indoor": "03:00",
+      "close_outdoor": "23:30",
+      "adress": "Storgata 39, Oslo"
+    },
+    {	
+      "name": "Escape",
+      "price": "36",
+      "close_indoor": "01:00",
+      "close_outdoor": "01:00",
+      "adress": "Gaustadalleen 23B, Oslo"
+    }
+  ]
+}

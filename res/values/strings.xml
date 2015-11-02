@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WünderBeer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">"Load Map"</string>
+    <string name="action_contactform">Load contactform</string>
+    <string name="splash">WünderBeer</string>
+  <string name ="exit">Exit Application</string> 
+ 
+ 
+ <string-array name="array">
+<item>Cheeper Beer</item>
+<item>Praise</item>
+<item>Grumble</item>
+</string-array>
+
+ <string name ="mail">  Your Mail: </string>
+<string name ="spinnerfeedback">  choose feedback type</string>
+<string name="feedback">  Feedback</string>
+<string name="name"> Name</string>
+
+
+<string name="hintmail">Mail</string>
+<string name="hintfeedback">Feedback</string>
+<string name="hintname">Name</string>
+ 
+    
+    
+</resources>

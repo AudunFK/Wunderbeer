@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+<!-- The placeholder text is only there to help with the graphical layout -->
+
+        <TextView
+            android:id="@+id/listview_item_Adress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:padding="8dp"
+            android:textStyle="bold"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/listview_item_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/listview_item_Adress"
+            android:padding="10dp"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/listview_item_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/listview_item_price"
+            android:layout_alignBottom="@+id/listview_item_price"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            android:textSize="13sp" />
+
+</RelativeLayout>
